@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Xer Abmulac</h1>
-<h3 align="center">A passionate frontend developer from 🇵🇭</h3>
+<h3 align="center">I'm from 🇵🇭</h3>
 
 - My Website 1 [Animxer1](https://animxer.fun)
 
