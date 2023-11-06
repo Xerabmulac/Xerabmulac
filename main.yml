@@ -14,7 +14,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: xerabmulc
+            user_name: xerabmulac
             # Text on contribution graph 
             text: animxer
        - uses: jasineri/simple-push-action@v1
