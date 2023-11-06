@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: xerabmulac
             # Text on contribution graph 
-            text: animxer
+            text: xerabmulac
        - uses: jasineri/simple-push-action@v1
