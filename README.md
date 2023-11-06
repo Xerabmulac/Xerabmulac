@@ -7,11 +7,18 @@
  <img align="center" src="https://raw.githubusercontent.com/dunkerbunker/dunkerbunker/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </div>
 
-<h2 align="left">social</h2>
+<h1 align="center">Hi 👋, I'm Xer Abmulac</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+- My Website 1 [Animxer1](https://animxer.fun)
 
-<br clear="both">
+- My Website 2 [Animxer2](https://animxer.xyz)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+- My Website 3 [Animxer3](https://animxer.site)
+
+- 📫 How to reach me **xerabmulac1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100069572806122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069572806122" height="30" width="40" /></a>
+</p>
