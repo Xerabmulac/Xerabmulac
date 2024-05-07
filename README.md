@@ -10,11 +10,10 @@
 <h1 align="center">Hi 👋, I'm Xer Abmulac</h1>
 <h3 align="center">I'm from 🇵🇭</h3>
 
-- My Website 1 [Animxer1](https://animxer.fun)
 
-- My Website 2 [Animxer2](https://animxer.xyz)
+- My Website 1 [Animxer2](https://animxer.xyz)
 
-- My Website 3 [Animxer3](https://animxer.site)
+- My Website 2 [Animxer3](https://animxer.site)
 
 - 📫 How to reach me **xerabmulac1@gmail.com**
 
